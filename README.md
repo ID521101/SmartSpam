@@ -7,6 +7,8 @@
 **prohibited_words.txt** 中使用的屏蔽词来自 Sensitive-lexicon (中文敏感词库)——网易前端过滤敏感词库.txt
 屏蔽词地址：https://github.com/konsheng/Sensitive-lexicon/tree/main/Vocabulary
 
+需要修改文件名为：**SmartSpam**
+
 ## 历史版本
 
  * version 2.8.0 at 2025-09-10
