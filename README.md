@@ -3,8 +3,8 @@
 原作者发布地址：https://www.yovisun.com/archive/typecho-plugin-smartspam.html
 
 
-增添违规屏蔽词文本,在prohibited_words.txt 中添加屏蔽词，一词一行！
-**prohibited_words.txt** 中使用的屏蔽词来自 Sensitive-lexicon (中文敏感词库)——网易前端过滤敏感词库.txt
+增添违规屏蔽词文本,在prohibited_words.txt 中添加屏蔽词，一词一行！<br>
+**prohibited_words.txt** 中使用的屏蔽词来自 Sensitive-lexicon (中文敏感词库)——网易前端过滤敏感词库.txt<br>
 屏蔽词地址：https://github.com/konsheng/Sensitive-lexicon/tree/main/Vocabulary
 
 需要修改文件名为：**SmartSpam**
@@ -12,7 +12,7 @@
 ## 历史版本
 
  * version 2.8.0 at 2025-09-10
- * 修复"邮箱关键词"设置后在删除造成无法评论的情况；新增了 prohibited_words.txt 文本，所有的屏蔽词放在文本中，"屏蔽昵称关键词操作"和"禁止词汇操作"共享一个文本。 by onemuggle.com 
+ * 修复"邮箱关键词"设置后在删除造成无法评论的情况；新增了 prohibited_words.txt 文本，所有的屏蔽词放在文本中，"屏蔽昵称关键词操作"和"禁止词汇操作"共享一个文本。 by www.onemuggle.com 
  * 
  * version 2.7.0 at 2021-03-08
  * 添加对游客评论的处理；新增部分代码提升同接口插件间的兼容性。 by zezeshe.com
